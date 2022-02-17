@@ -21,6 +21,7 @@ Ce repository contient
 
 # Montage du système
 Le plus délicat est le soudage du support de carte SD sur le shield qwiic.
+Détails à venir
 
 # Installation du code
 
@@ -33,4 +34,7 @@ Le code est disponible sur ce github. Il faut le flasher sur la carte : après a
 puis cliquer sur le bouton *téléverser* :
 
 ![image](https://user-images.githubusercontent.com/24956276/154459886-bd04d811-d328-48ef-a890-12dc35910290.png)
+
+#Utilisation du végémetre
+La notice d'utilisation est à la racine du github 
 
