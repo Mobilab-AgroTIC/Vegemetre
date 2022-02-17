@@ -31,5 +31,6 @@ Il est nécessaire de télécharger [cette librairie](https://github.com/sparkfu
 
 Le code est disponible sur ce github. Il faut le flasher sur la carte : après avoir branché l'arduino, il faut aller dans *Outils > ports >* Choisir l'arduino
 puis cliquer sur le bouton *téléverser* :
+
 ![image](https://user-images.githubusercontent.com/24956276/154459886-bd04d811-d328-48ef-a890-12dc35910290.png)
 
